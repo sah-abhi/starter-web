@@ -11,3 +11,6 @@ This repository is for showing how Git and GitHub work
 2nd edit
 
 Sample website with plenty of files for demos
+
+###copyright
+Git.training
