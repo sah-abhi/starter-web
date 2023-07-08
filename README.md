@@ -3,7 +3,7 @@ this is a simple website project, more changes
 
 ## Introduction
 
-This repository is for showing how Git and GitHub work
+This repository is for showing how Git and GitHub work.emergency fix
 
 ## Purpose
 
